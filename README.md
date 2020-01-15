@@ -1,6 +1,6 @@
-# Kaggle_kernels
+# Kaggle_kernels_2020
 
-Here are other challenges i've made. These are my public kernels public. 
+#### Here are other challenges i've made. These are my public kernels. 
 ---
 
 
