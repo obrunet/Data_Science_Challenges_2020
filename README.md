@@ -1,4 +1,4 @@
-# Kaggle & Zindi challs 2020
+# Kaggle, E.N.S & Zindi challs 2020
 Here are other challenges i've made. You can also find those public kernels on my kaggle's profile. 
 ---
 
@@ -9,6 +9,12 @@ Here are other challenges i've made. You can also find those public kernels on m
 * Use case: countries segmentation depending on their generation profile, power plant's efficiency prediction accross time 
 * Data: hourly estimates of an area's energy potential for 1986-2015 as a percentage of a power plant's maximum output
 * Concepts: __unsupervised__ ML (__KMeans Clustering__), basics statistics for the exploratory data analysi, other supervised M.L classical models, use of __Facebook's lib prophet__ for time series, __deep learning : R.N.N__ and more. 
+
+
+#### Cirta - Particle Type Classification : [part 1](https://obrunet.github.io/data%20science/Particles1/) - [part 2](https://obrunet.github.io/data%20science/Particles2/) 
+* Use case: The goal is to build a machine learning model to help physicists identify particles in images 
+* Data: images after particles collisions.
+* Concepts: __an imbalanced multiclass target__, over & undersampling, ensemble & gradient boosting models, M.L.P...
 
 ---
 
